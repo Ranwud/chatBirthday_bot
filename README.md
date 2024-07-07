@@ -11,3 +11,6 @@ Its main goal — to notify Telegram-chat participants about upcoming Birthdays.
 - [x] In large chats opportunity to auto-pin notification message may be very useful.
 - [x] Sometimes it is interesting to get next Birthday.
 - [ ] Chat's Birthday list will be available for all chat participants in convenient page view.
+
+
+HAHAHA
